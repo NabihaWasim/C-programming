@@ -15,7 +15,7 @@ int main(){
     }A,B,C;
     A.age=32;
     A.salary=45000; //to copy the name into string
-    strcpy(A.name,"Mohan");
+    strcpy(A.name,"Umaiza");
     B.age=34;
     B.salary=50000;
     strcpy(B.name,"Albert Guru");
